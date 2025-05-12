@@ -14,13 +14,13 @@ int main() {
     int attempts = 0;
     char input[10];
 
-        for ( i = 0; i < 9; i++) 
-		printf("* * * * * * * * * *\n");
+        for ( i = 0; i < 5; i++) 
+		printf("* * * * * * * * * *\n-------------------\n");
 		printf("\n");
 		printf("* * Åw ªï ¥ú Á{ * *\n");
 		printf("\n");
-		for ( i = 0; i < 9; i++) 
-		printf("* * * * * * * * * *\n");
+		for ( i = 0; i < 5; i++) 
+		printf("-------------------\n* * * * * * * * * *\n");
 		system("pause");
 		system("cls");
 
